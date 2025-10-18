@@ -3,7 +3,7 @@
 From the OOBE Screen press Shift + F10
 
 ```
-curl -L https://george.papazoglou.link/bypass -o skip.cmd
+curl -L george.papazoglou.link/bypass -o skip.cmd
 skip.cmd
 ```
 
